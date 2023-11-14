@@ -1,0 +1,15 @@
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\bin\Debug\net6.0\Hotellift.exe
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\bin\Debug\net6.0\Hotellift.deps.json
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\bin\Debug\net6.0\Hotellift.runtimeconfig.json
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\bin\Debug\net6.0\Hotellift.dll
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\bin\Debug\net6.0\Hotellift.pdb
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\obj\Debug\net6.0\Hotellift.csproj.AssemblyReference.cache
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\obj\Debug\net6.0\Hotellift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\obj\Debug\net6.0\Hotellift.AssemblyInfoInputs.cache
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\obj\Debug\net6.0\Hotellift.AssemblyInfo.cs
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\obj\Debug\net6.0\Hotellift.csproj.CoreCompileInputs.cache
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\obj\Debug\net6.0\Hotellift.dll
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\obj\Debug\net6.0\refint\Hotellift.dll
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\obj\Debug\net6.0\Hotellift.pdb
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\obj\Debug\net6.0\Hotellift.genruntimeconfig.cache
+C:\Users\paloczi.imre\source\repos\Hotellift\Hotellift\obj\Debug\net6.0\ref\Hotellift.dll
